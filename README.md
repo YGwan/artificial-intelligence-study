@@ -1,5 +1,8 @@
-# machine-learning-study
-백엔드 개발자의 머신러닝 입문기
+# artificial - intelligence- study
+
+<br>
+
+백엔드 개발자의 인공지능 입문기
 
 
 - Tools 공부
